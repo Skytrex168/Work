@@ -88,6 +88,8 @@ th, td {
   text-align: left;
   max-width: 800px;
   margin: auto;
+  text-decoration: none;
+  color: black;
 }
 
 footer {

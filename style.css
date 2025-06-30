@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f1f8fc;
+  color: #333;
+}
+
+.hero {
+  background-color: #155dd4;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.hero button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: white;
+  color: #155dd4;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.why-visit {
+  background-color: white;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.why-visit h2 .highlight {
+  color: #155dd4;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.exploration {
+  text-align: center;
+  padding: 20px;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.image-row img {
+  width: 250px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.top-places {
+  padding: 20px;
+  background-color: #e4f6f9;
+}
+
+table {
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+.highlight-row {
+  background-color: #fbb03b;
+  color: white;
+  font-weight: bold;
+}
+
+.contact {
+  padding: 20px;
+  background-color: #e6f2ff;
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+}
+
+footer {
+  background-color: #155dd4;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
